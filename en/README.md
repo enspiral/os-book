@@ -14,7 +14,7 @@ There are some clear [Design Principles](./design-principles.md) that underly ou
 Contributions are welcome so if you see something that could be better feel free to fork the repo and make a pull request.
 
 ##Authors
-[Joshua Vial](http://joshuavial.com )
+[Joshua Vial](http://joshuavial.com)
 
 add-yourself-here
 
