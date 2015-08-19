@@ -8,7 +8,7 @@ The **Intended Audience** is organisation design geeks who are interested in bui
 
 ##Contents
 
-* Intention
+* [Intention](./intention.md)
 * Components
   * Kernal
 
