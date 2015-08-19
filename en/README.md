@@ -1,2 +1,3 @@
 # Enspiral OS
-This is a book describing the Enspiral Organizing System.
+This is a book describing the Enspiral Organising System.
+
