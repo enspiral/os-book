@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Intention](intention.md)
 * [Design Principles](design-principles.md)
-* Components
+* [Components](components/README.md)
    * Kernal
 
