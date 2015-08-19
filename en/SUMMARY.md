@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Design Principles](design-principles.md)
-* Intention
+* [Intention](./intention.md)
 
