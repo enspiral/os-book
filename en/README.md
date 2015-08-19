@@ -1,5 +1,5 @@
 # Enspiral OS
-This is a book describing the Enspiral Organising System.
+This is a book describing the unofficial Enspiral Organising System.
 
 It is under development and new content will be published as it is ready.
 
