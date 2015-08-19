@@ -9,7 +9,7 @@ The **Intended Audience** is organisation design geeks who are interested in bui
 ##Contents
 
 * Intention
-Components
+* Components
   * Kernal
 
 ##Contributing
