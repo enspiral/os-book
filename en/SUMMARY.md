@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
+* [Intention](intention.md)
 * [Design Principles](design-principles.md)
-* [Intention](./intention.md)
 
