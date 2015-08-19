@@ -1,4 +1,5 @@
-#Summary
+# Summary
 
-* [Design Principles](./principles.md)
+* [Introduction](README.md)
+* [Design Principles](design-principles.md)
 
