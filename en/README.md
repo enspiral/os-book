@@ -23,5 +23,3 @@ Contributions are welcome so if you see something that could be better feel free
 add-yourself-here
 
 Version: 0.2 | Updated: August xx, 2015
-
-yay stuff
