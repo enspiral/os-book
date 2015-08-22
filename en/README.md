@@ -8,7 +8,7 @@ The **Intended Audience** is organisation design geeks who are interested in bui
 
 ##Contents
 
-* [Contributing](./introduction/README.md)
+* [Contributing](./CONTRIBUTING.md)
 
 ##Authors
 [Joshua Vial](http://joshuavial.com)
