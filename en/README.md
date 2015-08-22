@@ -1,5 +1,5 @@
 # Open OS
-A description of an unofficial and highly experimental Open Organising System. The views expressed are those of the authors and not necessarily the wider Enspiral network.
+An unofficial and experimental Organising System for Enspiral. The views expressed are those of the authors and not necessarily the wider Enspiral network.
 
 ##Overview 
 This book is a work in progress and new content will be published as it is ready.
