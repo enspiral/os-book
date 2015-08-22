@@ -32,7 +32,10 @@ If you are working on substantial changes make your own feature branch with a de
 When you are ready to get feedback create a pull request on Github for merging your branch into draft. If you haven't made a pull request before feel free to ask one of the other authors to pair with you on it.
 
 ##Help
-Reach out to <joshua@enspiral.com> if you need help with anything
+
+[Github for everyone](https://training.github.com/kit/courses/github-for-everyone.html) has a great overview of git and Github.
+
+Feel free to reach out to <joshua@enspiral.com> if you need help with anything
 
 
 
