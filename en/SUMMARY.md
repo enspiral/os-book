@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * Introduction
-* [Intention](intention.md)
+* Introduction
 * [Design Principles](design-principles.md)
 * [Components](components/README.md)
    * [Kernal](components/kernal.md)
