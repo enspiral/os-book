@@ -6,5 +6,7 @@ There are some clear [Design Principles](./design-principles.md) that underly ou
 
 Our main collaboration space is the #open-os channel in the Enspiral slack, if you don't have access email <joshua@enspiral.com>.
 
+The data for this books lives at [github.com/enspiral/os-book](https://github.com/enspiral/os-book) though we mostly use gitbook for editing.
+
 
 
