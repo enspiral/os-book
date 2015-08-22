@@ -27,7 +27,7 @@ The draft branch is a free for all editing environment for the next release. Fee
 You can think of this branch as the place for release candidates. It's content is visible at [enspiral.gitbooks.io/os-draft/content/en/index.html](http://enspiral.gitbooks.io/os-draft/content/en/index.html)
 
 ####*Your Branch* (big changes)
-If you are working on substantial changes make your own feature branch with a descriptive name. It's worth posting up in slack to let other folks know what you're working on to avoid duplication.
+If you are working on substantial changes make your own feature branch with a descriptive name. Its worth posting up in slack to let other folks know what you're working on to avoid duplication.
 
 When you are ready to get feedback create a pull request on Github for merging your branch into draft. If you haven't made a pull request before feel free to ask one of the other authors to pair with you on it.
 
