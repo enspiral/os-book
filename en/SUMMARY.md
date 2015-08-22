@@ -1,7 +1,7 @@
 # Summary
 
 * [Overview](README.md)
-* Introduction
+* [Introduction](introductio/README.md)
 * [Design Principles](design-principles.md)
 * [Components](components/README.md)
    * [Kernal](components/kernal.md)
