@@ -8,9 +8,8 @@ The **Intended Audience** is organisation design geeks who are interested in bui
 
 ##Contents
 
-* [Intention](./intention.md)
-* Components
-  * [Kernal](./components/kernal.md)
+* [Introduction](./introduction/README.md)
+* [Components](./components/README.md)
 
 ##Contributing
 There are some clear [Design Principles](./design-principles.md) that underly our thinking behind the OS and the way we present it. If you want to contribute be sure to check them out.
