@@ -33,8 +33,8 @@ When you are ready to get feedback create a pull request on Github for merging y
 
 ##Help
 
-[Github for everyone](https://training.github.com/kit/courses/github-for-everyone.html) has a great overview of git and Github.
-[Gitbooks help](http://help.gitbook.com/)
+* [Github for everyone](https://training.github.com/kit/courses/github-for-everyone.html) has a great overview of git and Github.
+* [Gitbooks help](http://help.gitbook.com/)
 
 Feel free to reach out to <joshua@enspiral.com> if you need help with anything
 
