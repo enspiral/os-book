@@ -1,5 +1,10 @@
 ##Contributing
-There are some clear [Design Principles](./design-principles.md) that underly our thinking behind the OS and the way we present it. If you want to contribute be sure to check them out.
 
-Contributions are welcome so if you see something that could be better feel free to fork the repo and make a pull request.
+Woohoo! Co-creation for the win. Welcome to the team.
+
+There are some clear [Design Principles](./design-principles.md) that underly our thinking behind the OS and the way we present it. Be sure to check them out before jumping in.
+
+Our main collaboration space is the #open-os channel in the Enspiral slack, if you don't have access email <joshua@enspiral.com>
+
+
 
