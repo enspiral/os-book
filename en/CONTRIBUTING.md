@@ -24,7 +24,7 @@ The content from the master branch is viewable at [enspiral.gitbooks.io/os/conte
 ####Draft (small changes)
 The draft branch is a free for all editing environment for the next release. Feel free to make any small changes you like in the draft branch. Try not to leave incomplete work in here as it may hold up a release.
 
-You can think of this branch as the place for release candidates. It's content is visible at [enspiral.gitbooks.io/os-draft/content/en/index.html](http://enspiral.gitbooks.io/os-draft/content/en/index.html)
+You can think of this branch as the place for release candidates. Its content is visible at [enspiral.gitbooks.io/os-draft/content/en/index.html](http://enspiral.gitbooks.io/os-draft/content/en/index.html)
 
 ####*Your Branch* (big changes)
 If you are working on substantial changes make your own feature branch with a descriptive name. Its worth posting up in slack to let other folks know what you're working on to avoid duplication.
