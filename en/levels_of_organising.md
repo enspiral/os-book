@@ -22,6 +22,18 @@ Small, diverse teams of people in groups from 4 to 9 are the core unit of organi
 
 Pods can be tight where people work with each other every day or loose where people touch base once a month.
 
+Pods have clear boundaries with explicit joining and leaving protocols.
+
 #### Community
 
+Both Individuals and Pods can be part of a Community. 
+Communities are easy to join and hard to stay. The key aspects of healthy communities are interdependence and trust.
+
+In a community reputation can be maintained implicitly and the friction of collaboration is low. 
+They provide resilience and natural safety nets.
+
 #### Network
+
+Networks are the key to unlocking scale. They are built with permissionless protocols that anyone can join as long as they communicate in the right way. 
+
+A network of networks is just a network and their nature does not fundamentally change as they get bigger (?)
