@@ -9,7 +9,7 @@ The **Intended Audience** is organisation design geeks who are interested in bui
 ##Contents
 
 * [Contributing](./CONTRIBUTING.md)
-* [Design Principles](./design-principles.md)
+* [Design Principles](./design_principles.md)
 
 ##Authors
 [Joshua Vial](http://joshuavial.com)
