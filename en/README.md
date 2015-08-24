@@ -18,3 +18,6 @@ The **Intended Audience** is organisation design geeks who are interested in bui
 
 
 Version: 0.2 | Updated: August 24, 2015
+
+To see the work in progress checkout [The draft branch](http://enspiral.gitbooks.io/os-draft/content/en/index.html).
+
