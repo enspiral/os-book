@@ -6,7 +6,7 @@ All of the ideas and practices presented in this book have been tested against t
 The world which has shaped many of our assumptions about organising is rapidly disappearing.
 We need to consciously reconnect with first principles and design organising systems adapted for todays world.
 
-Forget about legal structures, finances, brands and departments. What naturally unfolds when we start with living systems, people, purpose and the internet?
+Forget about legal structures, finances, brands and departments. What naturally unfolds when we start with living systems, people and purpose?
 
 Forget the concept of an organisation and embrace dynamic and interconnected networks.
 
