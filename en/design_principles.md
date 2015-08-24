@@ -8,7 +8,9 @@ We need to consciously reconnect with first principles and design organising sys
 
 Forget about legal structures, finances, brands and departments. What naturally unfolds when we start with living systems, people and purpose?
 
-Forget the concept of an organisation and embrace dynamic and interconnected networks.
+Forget the concept of an organisation and embrace dynamic and interconnected networks. 
+
+We do not build organisations, we design organising systems.
 
 ####Simple and Intuitive
 Imagine sitting down with someone new to this work and explaining an organising system to them. 
