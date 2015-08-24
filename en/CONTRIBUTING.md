@@ -2,7 +2,7 @@
 
 Woohoo! Co-creation for the win. Welcome to the team.
 
-There are some clear [Design Principles](./design-principles.md) that underly our thinking behind the OS and the way we present it. Be sure to check them out before jumping in.
+There are some clear [Design Principles](./design_principles.md) that underly our thinking behind the OS and the way we present it. Be sure to check them out before jumping in.
 
 Our main collaboration spaces are
 
