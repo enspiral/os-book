@@ -28,4 +28,3 @@ Our organising systems are not separate from the world but connected with it. Th
 The technology we use deeply shapes the way we organise. Likewise software without culture is a lifeless system.
 
 To design organising systems we need to consider both the human and technical components.
-
