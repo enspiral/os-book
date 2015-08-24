@@ -16,4 +16,4 @@ The **Intended Audience** is organisation design geeks who are interested in bui
 
 add-yourself-here
 
-Version: 0.2 | Updated: August xx, 2015
+Version: 0.2 | Updated: August 24, 2015
