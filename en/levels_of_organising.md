@@ -36,4 +36,4 @@ They provide resilience and natural safety nets.
 
 Networks are the key to unlocking scale. They are built with permissionless protocols that anyone can join as long as they communicate in the right way. 
 
-A network of networks is just a network and their nature does not fundamentally change as they get bigger (?)
+A network of networks is just a network and their nature does not fundamentally change as they get bigger.
