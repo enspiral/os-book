@@ -9,7 +9,12 @@ So too do groups have different properties as the number of people increase.
 
 #### Individual
 
+Our pyschology has evolved in an environment which is very different from todays world.
+Many things are the same and we are nothing if not adaptable but much is fundamentally different.
 
+
+
+At the end of the day the only thing we control is ourselves. 
 
 #### Pod
 
