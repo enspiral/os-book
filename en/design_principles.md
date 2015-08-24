@@ -24,4 +24,8 @@ Our organising systems should resemble fractals where a small number of simple p
 ####Systemic Health
 Our organising systems are not separate from the world but connected with it. They recognise this interconnection and naturally tend towards health and wellbeing at every level.
 
+####Embedded in culture and software
+The systems we use to connect with each other shape the way we organise. Likewise software without culture is a lifeless system.
+
+To design organising systems we need to consider both the human and technical components.
 
