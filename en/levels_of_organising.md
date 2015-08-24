@@ -12,13 +12,15 @@ So too do groups have different properties as the number of people increase.
 Our pyschology has evolved in an environment which is very different from todays world.
 Many things are the same and we are nothing if not adaptable but much is fundamentally different.
 
-
+One of the most important levels to consider when designing systems is how people will relate with them at an individual level.
 
 At the end of the day the only thing we control is ourselves. 
 
 #### Pod
 
-The core unit of organising. Small, diverse teams of people in groups from 4 to 9.
+Small, diverse teams of people in groups from 4 to 9 are the core unit of organising.
+
+Pods can be tight where people work with each other every day or loose where people touch base once a month.
 
 #### Community
 
