@@ -2,6 +2,5 @@
 
 * [Overview](README.md)
 * [Contributing](CONTRIBUTING.md)
-* [Introduction](introduction/README.md)
 * [Design Principles](design_principles.md)
 
